@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Tugas_Laporan/static/css/main.9546fdc5.css",
+    "main.js": "/Tugas_Laporan/static/js/main.950d80c2.js",
+    "static/media/making.jpg": "/Tugas_Laporan/static/media/making.e633d44192a9d98255b2.jpg",
+    "static/media/bakeTogether.jpg": "/Tugas_Laporan/static/media/bakeTogether.0aa4b2949e257ec2496c.jpg",
+    "static/media/CookingDessert.jpg": "/Tugas_Laporan/static/media/CookingDessert.fb69a8f23fbdf56d6762.jpg",
+    "static/media/birtyday.jpg": "/Tugas_Laporan/static/media/birtyday.b10c951a9438f3be084a.jpg",
+    "static/media/WomanMaking.jpg": "/Tugas_Laporan/static/media/WomanMaking.1ebeaae89f625a861f9c.jpg",
+    "static/media/delevery.jpg": "/Tugas_Laporan/static/media/delevery.287e0746ba3a15122073.jpg",
+    "static/media/ContactUs.png": "/Tugas_Laporan/static/media/ContactUs.f96584a72716de3fdcb1.png",
+    "static/media/cake2.jpeg": "/Tugas_Laporan/static/media/cake2.4167b9af1705d7c68f9f.jpeg",
+    "static/media/cake3.jpeg": "/Tugas_Laporan/static/media/cake3.f6034e17f19907018393.jpeg",
+    "static/media/cake1.jpeg": "/Tugas_Laporan/static/media/cake1.a30836f7d10723f24ac5.jpeg",
+    "static/media/cake4.jpeg": "/Tugas_Laporan/static/media/cake4.8899f00b25efb76451c9.jpeg",
+    "index.html": "/Tugas_Laporan/index.html",
+    "main.9546fdc5.css.map": "/Tugas_Laporan/static/css/main.9546fdc5.css.map",
+    "main.950d80c2.js.map": "/Tugas_Laporan/static/js/main.950d80c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9546fdc5.css",
+    "static/js/main.950d80c2.js"
+  ]
+}
